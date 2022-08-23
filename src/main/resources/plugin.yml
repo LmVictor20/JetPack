@@ -1,0 +1,8 @@
+name: Main
+version: '${project.version}'
+main: me.victor20.main.Main
+api-version: 1.17
+commands:
+  jetpack:
+    aliases:
+      - jp
